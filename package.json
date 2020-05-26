@@ -1,0 +1,25 @@
+{
+  "name": "discord-bot",
+  "version": "1.0.0",
+  "description": "a simple discord bot by me",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krishna-saparia/discord-bot.git"
+  },
+  "keywords": [
+    "bot",
+    "discord",
+    "node",
+    "js"
+  ],
+  "author": "krishna-saparia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/krishna-saparia/discord-bot/issues"
+  },
+  "homepage": "https://github.com/krishna-saparia/discord-bot#readme"
+}
